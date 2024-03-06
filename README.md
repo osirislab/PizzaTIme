@@ -18,6 +18,7 @@ current implementation supports three operations
 <h2>Immediate Goals</h2>
 <ul> <li>Store repetitive sensitive information securely</li>
      <li>Abstract the need for item codes over item names</li>
+     <li>Write a generalized Site crawler as an alternative</li>
 </ul>
 <h2>Future Goals</h2>
 <ul> <li>Multiple vendor support</li>
